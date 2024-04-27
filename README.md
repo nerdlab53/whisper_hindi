@@ -2,7 +2,7 @@
 
 This repository contains the implementation of Whisper-Large ASR model on the Gramvaani and Kathbath dataset for evaluation
 
-- The scripts for running the evaluation for the datasets are present here :
+- The notebooks used for running the evaluation for the datasets are present here :
 
 > Kathbath [here](https://github.com/nerdlab53/whisper_hindi/tree/main/Kathbath%20Hindi%20Eval)
 
