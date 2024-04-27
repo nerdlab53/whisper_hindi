@@ -23,4 +23,5 @@ This repository contains the implementation of Whisper-Large ASR model on the Gr
 ## Specs used for evaluation (Kaggle basic): 
 
 > RAM : 30GB
+
 > GPUs : T4x2
