@@ -1,6 +1,6 @@
 # whisper_hindi
 
-## This repository contains the implementation of Whisper-Large ASR model on the Gramvaani and Kathbath dataset for evaluation
+This repository contains the implementation of Whisper-Large ASR model on the Gramvaani and Kathbath dataset for evaluation
 
 
 -The scripts for running the evaluation for the datasets are present here :
