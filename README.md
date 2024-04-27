@@ -4,7 +4,8 @@
 
 
 -The scripts for running the evaluation for the datasets are present here :
--Kathbath [here](/kathbath_hindi_eval)
+
+-Kathbath [here](https://github.com/nerdlab53/whisper_hindi/tree/main/Kathbath%20Hindi%20Eval)
 
 -Gramvaani [here](/gramvani_hindi_eval)
 
