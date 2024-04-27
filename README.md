@@ -7,4 +7,4 @@
 
 
 ## The model used for the evaluation purposes is the Whisper-Large by OpenAI
->![whisper-large]('/assets/whisper-large')
+> ![whisper-large](assets/whisper-large.png)
