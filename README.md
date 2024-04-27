@@ -5,9 +5,9 @@
 
 -The scripts for running the evaluation for the datasets are present here :
 
--Kathbath [here](https://github.com/nerdlab53/whisper_hindi/tree/main/Kathbath%20Hindi%20Eval)
+> Kathbath [here](https://github.com/nerdlab53/whisper_hindi/tree/main/Kathbath%20Hindi%20Eval)
 
--Gramvaani [here](/gramvani_hindi_eval)
+> Gramvaani [here](https://github.com/nerdlab53/whisper_hindi/tree/main/Graamvani%20Hindi%20Eval)
 
 
 ## The model used for the evaluation purposes is the Whisper-Large by OpenAI
